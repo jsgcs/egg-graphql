@@ -2,4 +2,5 @@
 
 exports.graphql = {
   router: '/graphql',
+	srcExtensions: [ '.js', '.ts' ],
 };
